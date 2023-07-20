@@ -8,4 +8,4 @@ Code attempts to get value of key `_` from empty dict which results in `KeyError
 I think it's not the solution that was meant by the author, tricky one 😉
 
 - `main.py` - basic challenge
-- `main2.py` -  harder version with different set of forbidden chars, this solution works the same
+- `main2.py` -  harder version with different set of forbidden chars (Censorship Lite), this solution works the same
